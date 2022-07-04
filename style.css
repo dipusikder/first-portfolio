@@ -48,3 +48,8 @@ section {
 h2{
     font-size: 55px;
 }
+.dream-bg{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        
+}
