@@ -26,14 +26,15 @@ section {
 .half-width {
     width: 100%;
     padding: 3%;
-    
+
 }
 
 .half-width img {
     width: 100%;
 
 }
-.link-button{
+
+.link-button {
     text-decoration: none;
     color: white;
     font-weight: 700;
@@ -41,15 +42,16 @@ section {
     padding: 10px 35px;
     border-radius: 5px;
 }
-.top-banner{
+
+.top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-h2{
-    font-size: 55px;
-}
 .dream-bg{
-        background-image: url(images/dream-bg.png);
-        background-repeat: no-repeat;
-        
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h2 {
+    font-size: 55px;
 }
