@@ -17,10 +17,13 @@ h1 {
 
 h3 {
     font-size: 22px;
+    color: orange;
 }
 
-section {
+.flexiblr-container {
     display: flex;
+    width: auto;
+    
 }
 
 .half-width {
@@ -54,4 +57,16 @@ section {
 }
 h2 {
     font-size: 55px;
+}
+
+.extra-container{
+   width: 40%;
+   margin-right: 5%;
+   margin-left: 5%;
+   padding: 1%;
+   border-radius: 10px;
+   box-shadow: 10px 10px 40px rgb(31, 3, 26);
+   background-image: url(images/exp-bg.png);
+   background-repeat: no-repeat;
+
 }
